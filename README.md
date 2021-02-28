@@ -1,0 +1,2 @@
+# Tikbot.py
+hama
